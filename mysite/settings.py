@@ -28,6 +28,7 @@ DEBUG = True
 ALLOWED_HOSTS = [
     '127.0.0.1',
     '192.168.2.204',
+    'jfjdud120.pythonanywhere.com',
 ]
 
 
